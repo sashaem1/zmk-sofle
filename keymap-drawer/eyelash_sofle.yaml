@@ -60,7 +60,7 @@ layers:
   - $$mdi:keyboard-space$$
   - LAYER1
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - GLOBE
+  - Ctl+$$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - LAYER3
   - $$mdi:apple-keyboard-shift$$
